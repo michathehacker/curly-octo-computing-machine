@@ -12,3 +12,17 @@ H:\ToolsAssignment\.vs\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\Uni
 H:\ToolsAssignment\.vs\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.dll
 H:\ToolsAssignment\.vs\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.pdb
 H:\ToolsAssignment\.vs\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.genruntimeconfig.cache
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.exe
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.deps.json
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.runtimeconfig.json
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.runtimeconfig.dev.json
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.dll
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.pdb
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.csproj.AssemblyReference.cache
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.AssemblyInfoInputs.cache
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.AssemblyInfo.cs
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.csproj.CoreCompileInputs.cache
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.dll
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.pdb
+D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.genruntimeconfig.cache
