@@ -26,3 +26,17 @@ D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvert
 D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.dll
 D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.pdb
 D:\ToolsGitHUb\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.genruntimeconfig.cache
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.exe
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.deps.json
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.runtimeconfig.json
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.runtimeconfig.dev.json
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.dll
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\bin\Debug\netcoreapp3.1\UnitConvertion.pdb
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.csproj.AssemblyReference.cache
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.AssemblyInfoInputs.cache
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.AssemblyInfo.cs
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.csproj.CoreCompileInputs.cache
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.dll
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.pdb
+C:\Users\747278\Source\Repos\curly-octo-computing-machine\UnitConvertion\UnitConvertion\obj\Debug\netcoreapp3.1\UnitConvertion.genruntimeconfig.cache

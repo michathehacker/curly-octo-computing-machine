@@ -12,6 +12,8 @@ namespace UnitConvertion
             Console.WriteLine("2-Convertion of Grams to Kg");
             Console.WriteLine("3-Convertion of Meters to Miles");
             Console.WriteLine("4-Convertion of Miles to Meters");
+            Console.WriteLine("7-Convertion of Centimeters to Meters");
+            Console.WriteLine("8-Convertion of Meters to Centimeters");
 
             int choose = int.Parse(Console.ReadLine());
 
@@ -47,7 +49,20 @@ namespace UnitConvertion
                 Console.WriteLine(miles + "mi = " + meters + "m");
             }
 
-
+            if (choose == 7)
+            {
+                Console.WriteLine("Enter the amount of Centimeters:");
+                double centimeters = Double.Parse(Console.ReadLine());
+                double meter = centimeters / 100;
+                Console.WriteLine(centimeters + "cm = " + meter + "m");
+            }
+            if (choose == 8)
+            {
+                Console.WriteLine("Enter the amount of Meters:");
+                double meterr = Double.Parse(Console.ReadLine());
+                double cms = meterr * 100;
+                Console.WriteLine(meterr + "m = " + cms + "cm");
+            }
         }
     }
 }
