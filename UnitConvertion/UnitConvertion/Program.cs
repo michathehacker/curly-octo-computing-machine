@@ -12,6 +12,8 @@ namespace UnitConvertion
             Console.WriteLine("2-Convertion of Grams to Kg");
             Console.WriteLine("3-Convertion of Meters to Miles");
             Console.WriteLine("4-Convertion of Miles to Meters");
+            Console.WriteLine("5-Convertion of Liters to Miligrams");
+            Console.WriteLine("6-Convertion of Miligrams to Liters ");
 
             int choose = int.Parse(Console.ReadLine());
 
@@ -46,7 +48,22 @@ namespace UnitConvertion
                 double meters = miles * 1600;
                 Console.WriteLine(miles + "mi = " + meters + "m");
             }
+            
+            if(choose == 5)
+            {
+                Console.WriteLine("Enter the amount of Liters:");
+                double liters = Double.Parse(Console.ReadLine());
+                double miligrams = liters * 1000;
+                Console.WriteLine(liters + "L = " + miligrams + "ml");
+            }
 
+            if (choose == 6)
+            {
+                Console.WriteLine("Enter the amount of Miligrams:");
+                double mls = Double.Parse(Console.ReadLine());
+                double Ls = mls / 1000;
+                Console.WriteLine(mls + "ml = " + Ls + "L");
+            }
 
         }
     }
